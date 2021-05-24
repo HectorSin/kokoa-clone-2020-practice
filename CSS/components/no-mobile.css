@@ -1,4 +1,4 @@
-#no-mobile {
+/*#no-mobile {
     position: absolute;
     z-index: 99;
     background-color: var(--yellow);
@@ -9,7 +9,8 @@
     align-items: center;
     font-size: 32px;
     top: 0;
-}
+}*/
+
 
 @media screen and (max-width: 800px) {
     #no-mobile {
